@@ -1,0 +1,4 @@
+venv/
+dist/
+build/
+scr/archiver.egg-info/
