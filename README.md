@@ -1,4 +1,4 @@
-# ARCIVER
+# ARCHIVER
 
 ## Оглавление
 
@@ -29,8 +29,9 @@ py -m pip install archiver
 Данная функция заходит в директорию и делает проход по папкам, подпапкам и файлам и архивирует их содержимое.
 Также она выводит начальные и конечные директории.
 В примере папка архивируется папка Данные
+
 ```python
-from src.archivator.arciv import arc
+from src.archiver.arciv import arc
 
 arc()
 

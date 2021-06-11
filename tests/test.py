@@ -1,5 +1,5 @@
 import unittest
-from src.archivator.arciv import arc
+from src.archiver.arciv import arc
 
 
 class TextStatisticsTests(unittest.TestCase):
