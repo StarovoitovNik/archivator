@@ -16,7 +16,7 @@
 
 ## Установка
 
-##Windows
+Windows
 
 ```
 py -m pip install TextStatistic
