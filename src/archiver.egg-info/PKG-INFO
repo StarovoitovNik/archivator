@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: archiver
+Version: 0.0.2
+Summary: Package for archiving in .zip form
+Home-page: https://github.com/StarovoitovNik/archivator
+Author: Nikita Starovoitov
+Author-email: nikita.starr02@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 7
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+
 # ARCIVER
 
 ## Оглавление
@@ -44,3 +59,4 @@ arc()
 1.Исполняемая программа и /data должны находиться в одной и той же директории
 
 2.Файлы,которые нужно заархивировать, должны находиться в /data/Данные
+

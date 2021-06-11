@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/archivator/__init__.py
+src/archivator/arciv.py
+src/archiver.egg-info/PKG-INFO
+src/archiver.egg-info/SOURCES.txt
+src/archiver.egg-info/dependency_links.txt
+src/archiver.egg-info/top_level.txt
