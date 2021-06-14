@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="archiver",
-    version="0.0.1",
+    version="1.0.2",
     author="Nikita Starovoitov",
     author_email="nikita.starr02@gmail.com",
     description="Package for archiving files",
